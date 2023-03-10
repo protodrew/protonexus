@@ -9,3 +9,4 @@
 Welcome to my wiki! This is a *work in purgatory*, and will constantly be changed and subject to change. Some good places to start include the notes on [[knowledge/literature/books/books\|books]] and [[knowledge/literature/articles/articles\|articles]] I have read.
 
 [[knowledge/computers/computers\|computers]]
+
